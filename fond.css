@@ -1,0 +1,26 @@
+body{
+    background-color: rgba(0, 255, 157, 0.164);
+    max-width: 50%;
+    border: 10px solid rgba(66, 0, 128, 0.616);
+    border-radius: 15px;
+    padding: 10px;
+    margin: 250px;
+}
+button{
+    background-color: #38208f56;
+border: none;
+color: white;
+padding: 15px 32px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+cursor: pointer;
+border-radius: 15px;
+transition-property: background-color;
+transition-duration: 0.5s;
+transition-delay: 0.4s;      
+}   
+contain{
+    margin: 50%;
+}
